@@ -1,0 +1,6 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+# Intentionally empty. Fixtures are inserted straight into the database, which
+# skips the before_create hook that assigns the non-null `jti` column, and it
+# skips password encryption. Tests that need a user build one through the model
+# instead.
