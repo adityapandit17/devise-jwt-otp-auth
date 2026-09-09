@@ -54,7 +54,7 @@ group :development do
   gem "letter_opener"
 end
 
-gem 'devise', "< 5.0"
+gem 'devise', "< 6.0"
 gem 'jwt'
 gem 'devise-jwt'
 
