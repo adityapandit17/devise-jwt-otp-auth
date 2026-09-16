@@ -60,4 +60,4 @@ gem 'devise-jwt'
 
 # json 3.x made JSON.parse's options keyword-only, but Active Support 8.1 still
 # passes them positionally, which breaks all JSON request parsing.
-gem "json", "~> 2.21"
+gem "json", "~> 3.0"
